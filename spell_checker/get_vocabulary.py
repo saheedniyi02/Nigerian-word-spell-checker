@@ -30,7 +30,6 @@ WORDS=Counter({word:count for word, count in WORDS.items() if count >1 })
 
 
 with open('/assets/vocabulary.pickle', 'wb') as outputfile:
-    print(outputfile) 
-    print(pickle.dump(WORDS, outputfile))
+    pickle.dump(WORDS, outputfile)
 
 del WORDS
