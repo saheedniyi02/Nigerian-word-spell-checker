@@ -1,5 +1,5 @@
 # Nigerian-word-spell-checker
-A word spell checker for nigerian words,based on Nigerian data. The spell checker has knowledge of Nigerian names,places,and words commonly used by nigerians.
+A word spell checker for nigerian words,based on Nigerian data. The spell checker has knowledge of Nigerian names,places,words commonly used by nigerians and also normal english words.
 
 Credits to the code goes to: <a href="http://norvig.com/spell-correct.html">Peter Norvig</a>
 
