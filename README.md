@@ -11,4 +11,4 @@ How to set up<br>
 2) Run the `spell_checker/get_vocabulary.py` to get and process the vocabulary file.
 
 3) Run the testing.py file.
-<img href="https://github.com/saheedniyi02/Nigerian-word-spell-checker/blob/main/Result.PNG"/>
+<img src="https://github.com/saheedniyi02/Nigerian-word-spell-checker/blob/main/Result.PNG"/>
