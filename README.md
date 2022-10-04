@@ -10,5 +10,5 @@ How to set up<br>
 
 2) Run the `spell_checker/get_vocabulary.py` to get and process the vocabulary file.
 
-3) Run the testing.py file.
-<img src="https://github.com/saheedniyi02/Nigerian-word-spell-checker/blob/main/Result.PNG"/>
+3) Run the tests.py file.<br>
+`The spell checker scored an accuracy of 62.338% on this test data`
